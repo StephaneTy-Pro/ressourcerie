@@ -15,3 +15,7 @@ Les ressources sont accessibles via le [Wiki GitHub](./wiki).
      - [TypeScript](https://gist.github.com/votre-utilisateur/typescript_resources)
      - [JavaScript](https://gist.github.com/votre-utilisateur/javascript_resources)
      - [CSS](https://gist.github.com/votre-utilisateur/css_resources)
+---
+
+## Mises à jour
+Consultez le [Wiki GitHub](./wiki) pour les dernières mises à jour.
