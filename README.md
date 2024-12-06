@@ -3,7 +3,7 @@
 Bienvenue dans ce projet qui centralise des ressources par thématique pour les étudiants.
 
 ## Navigation
-Les ressources sont accessibles via le [Wiki GitHub](./wiki).
+Les ressources sont accessibles via le [Wiki GitHub](../wiki).
 
 ## Organisation
 1. **Gestion de projet** :
